@@ -38,3 +38,8 @@ margin: 20px;border-radius: 4px;
 cursor: pointer;
 display: block;
 }
+
+.selected_btn {
+    background-color: #222;
+    color: #fff;
+}
